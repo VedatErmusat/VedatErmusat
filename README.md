@@ -8,7 +8,9 @@
 
 ### Reach Out To Me 
 
-<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align ="left" />
+<a href="https://www.linkedin.com/in/vedatermusat/">
+  <img src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" width="22" >
+</a>
 
 <br />
 <br />
