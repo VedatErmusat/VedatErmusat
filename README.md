@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Vedat. :blush:
 
-## Web Developer | Software Engineering Student
+## AI Developer | Software Engineering Student
 
 <font color="red">Whatever you are, come again</font>
 
